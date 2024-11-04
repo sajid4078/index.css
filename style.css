@@ -1,0 +1,74 @@
+h1{
+    color: brown;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: cadetblue;
+}
+h4{
+    color: darkgoldenrod;
+}
+h5{
+    color: green;
+
+
+
+
+
+}
+.list{
+    background-color: coral;
+    font-size: 30px;
+}
+.list-2{
+    background-color: darkgoldenrod;
+    font-size: 20px;
+}
+.list-3{
+    background-color: deeppink;
+    font-weight: 900;
+}
+.list-4{
+   
+    background-color: aquamarine;
+    font-size: 35px;
+    
+    color: #000;
+}
+.list-5{
+    background-color: fuchsia;
+    font-size: 40px;
+}
+
+
+.text{
+    color: darkcyan;
+}
+.text-1{
+    color: blueviolet;
+}
+.text-2{
+    color: brown;
+}
+.text-3{
+    color: forestgreen;
+}
+.text-4{
+    color: indianred;
+}
+.text-5{
+    color: magenta;
+}
+
+
+
+input{
+    font-size: 30px;
+    background-color: hotpink;
+    color: aliceblue;
+    border-radius: 10px;
+}
+    
+
